@@ -7,15 +7,10 @@ html {
   border-color: limegreen;
 }
 
-.btn-ghost {
-  background-color: transparent;
-}
-
 .btn-light {
   background-color: lightgreen;
   border-color: lightgreen;
 }
-
 
 .btn:hover {
   background-color: darkgreen;
@@ -23,5 +18,9 @@ html {
 }
 
 .btn-ghost:hover {
+  background-color: transparent;
+}
+
+.btn-ghost {
   background-color: transparent;
 }
